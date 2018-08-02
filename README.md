@@ -1,24 +1,7 @@
-# README
+# bopIt Reimagnied in JS
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+* What we were looking to create
 
-Things you may want to cover:
+* What we were able to create in a week
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Features that we would like to add on
